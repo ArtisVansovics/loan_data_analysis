@@ -13,7 +13,7 @@ The project was developed in Google Colab Notebook by using Python as the progra
 Python libraries used in the project are Pandas, NumPy and Scikit-learn.
 \
 Data visualization was done using Matplotlib and Seaborn.
-\
+
 1. After initial, exploratory data analysis data was pre-processed for model training by encoding all features to be numeric.
 2. Afterwards the data set was split between dependent variable(fdp30) and the other, independent variables, which were used to determine the model outcome.
 3. The initial data set was then spilt between the training sub-set, with which the model was trained, and test sub-set, which was used to determine the accuracy of the model. The division ratio of the sub-sets was 80:20.
